@@ -1,4 +1,4 @@
-# FUCK-YOU-GFW: A Joint Protest against China's Internet Firewall and Registration System
+# ADVICE-FOR-GFW: A Joint Protest against China's Internet Firewall and Registration System
 
 <p>
 	<a href="https://githubfast.com/OpenCNLink/freevpn">Free VPNs</a>
